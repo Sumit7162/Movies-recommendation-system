@@ -549,16 +549,7 @@ footer {
     margin-bottom: var (--spacing-lg);
 }
 
-/* Center the hero section */
-.hero {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* Full viewport height */
-    text-align: center;
-    background-color: #333; /* Optional: Background color */
-    color: white;
-}
+
 
 .hero-content {
     background: rgba(0, 0, 0, 0.7); /* Optional: Semi-transparent background for readability */
